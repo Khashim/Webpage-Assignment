@@ -1,5 +1,5 @@
 # Webpage-Assignment
-[Click here to ](https://khashim.github.io/Webpage-Assignment/Ubuntu.html)
+[Click here for my webpage](https://khashim.github.io/Webpage-Assignment/Ubuntu.html)
 
 <!DOCTYPE html>
 <html>
