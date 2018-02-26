@@ -1,13 +1,18 @@
 # Webpage-Assignment
-
-   <!DOCTYPE html>
+<!DOCTYPE html>
 <html>
     <head>
         <meta charset="utf-8">
+        <title>Linux Webpage</title>
+<style>
+        body {
+            background-color: rgb(227, 227, 227);
+        }
+        </style>
         
-       
     </head>
-    <body>  
+    <body>
+     
     <h1>LINUX:Ubuntu</h1>
     <h5> By:Kewther Hashim</h5>
     <h3>What is Linux?</h3>
